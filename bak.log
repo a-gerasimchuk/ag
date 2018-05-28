@@ -1,0 +1,34 @@
+total 32K
+drwxr-xr-x 6 bitnami bitnami 4.0K May 25 15:00 .
+drwxr-xr-x 6 bitnami bitnami 4.0K May 25 14:59 ..
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 14:45 bak
+00000000000
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 14:49 bak1
+-rw-r--r-- 1 bitnami bitnami    0 May 25 15:02 bak.log
+-rwxr-xr-x 1 bitnami bitnami  290 Apr 27 14:56 bak.sh
+drwxr-xr-x 8 bitnami bitnami 4.0K May 25 15:00 .git
+-rw-r--r-- 1 bitnami bitnami   14 May 25 14:59 .gitignore
+-rw-r--r-- 1 bitnami bitnami    0 May 25 14:56 readme
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 15:00 tmp
+total 36K öööööööööö
+drwxr-xr-x 6 bitnami bitnami 4.0K May 25 15:00 .
+drwxr-xr-x 6 bitnami bitnami 4.0K May 25 14:59 ..
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 14:45 bak
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 14:49 bak1
+-rw-r--r-- 1 bitnami bitnami  536 May 25 15:02 bak.log
+-rwxr-xr-x 1 bitnami bitnami  290 Apr 27 14:56 bak.sh
+drwxr-xr-x 8 bitnami bitnami 4.0K May 25 15:02 .git
+-rw-r--r-- 1 bitnami bitnami   14 May 25 14:59 .gitignore
+-rw-r--r-- 1 bitnami bitnami    0 May 25 14:56 readme
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 15:00 tmp
+total 36K
+drwxr-xr-x 6 bitnami bitnami 4.0K May 25 15:00 .
+drwxr-xr-x 6 bitnami bitnami 4.0K May 25 14:59 ..
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 14:45 bak
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 14:49 bak1
+-rw-r--r-- 1 bitnami bitnami 1.1K May 25 15:04 bak.log
+-rwxr-xr-x 1 bitnami bitnami  290 Apr 27 14:56 bak.sh
+drwxr-xr-x 8 bitnami bitnami 4.0K May 25 15:04 .git
+-rw-r--r-- 1 bitnami bitnami   14 May 25 14:59 .gitignore
+-rw-r--r-- 1 bitnami bitnami    0 May 25 14:56 readme
+drwxr-xr-x 2 bitnami bitnami 4.0K May 25 15:00 tmp
